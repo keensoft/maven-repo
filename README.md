@@ -1,4 +1,4 @@
-# keensoft's maven public repository
+# keensoft's public maven repository
 
 To use it, add the repository to your POM file of the project:
 
