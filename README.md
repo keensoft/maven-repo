@@ -7,7 +7,7 @@ To use it, add the repository to your POM file of the project:
  <repository>
     <id>keensoft-public</id>
     <name>keensoft's public maven repo</name>
-    <url>https://github.com/keensoft/maven-repo/raw/master/</url>
+    <url>https://raw.githubusercontent.com/keensoft/maven-repo/master/</url>
  </repository>
 </pre>
 ```
